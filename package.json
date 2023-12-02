@@ -1,0 +1,17 @@
+{
+  "name": "linkerasa",
+  "version": "1.0.3",
+  "description": "link discordid to EOS-ID amd more",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "x3R07YP3",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.6.5",
+    "rcon.js": "^1.0.0"
+  }
+}
